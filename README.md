@@ -1,0 +1,1 @@
+"# Forex Trading Strategy Optimizer" 
